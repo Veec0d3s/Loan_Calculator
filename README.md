@@ -111,9 +111,3 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 ✅ Interactive charts (Line & Pie)  
 ✅ Repayment schedule (CSV download)  
 ✅ Dockerized for easy deployment  
-
-## ✨ Coming Soon
-
-- 🔁 Loan comparison mode  
-- 💡 What-if analysis tool  
-- 💰 Savings alternative simulator  
