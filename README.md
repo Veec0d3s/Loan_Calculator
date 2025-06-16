@@ -78,7 +78,7 @@ The backend uses **Pandas** to:
 
 ### 1. 📁 Clone the Repository
 
-git clone https://github.com/yourusername/loan-salary-calculator.git
+git clone https://github.com/VeeCod3s/loan-salary-calculator.git
 cd loan-salary-calculator
 
 ### 2. 🐳 Docker Compose Up
