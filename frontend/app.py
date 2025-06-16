@@ -116,7 +116,7 @@ if submitted:
         )
 
         # ----------------------------
-        # LOAN COMPARISON TOOL (Fixed with Session State)
+        # LOAN COMPARISON TOOL 
         # ----------------------------
         if "compare_clicked" not in st.session_state:
             st.session_state.compare_clicked = False
